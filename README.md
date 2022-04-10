@@ -20,40 +20,20 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
-Dar exemplos
-```
+NetBeans IDE 12.6
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-```
+[simuladorbatalhas.zip](https://github.com/PedroFlorenzano/Projeto_pokemon/files/8459910/simuladorbatalhas.zip)
 
 ## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Importar esse projeto dentro da IDE.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+NetBeans IDE 12.6
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
 ## ✒️ Autores
 
