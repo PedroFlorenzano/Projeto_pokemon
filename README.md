@@ -7,6 +7,9 @@ Classe Pokémon: deverá ter o algoritmo para criação de pokémon bem como a v
 Classe Batalhas: terá instanciados os objetos do tipo Pokémon.
 Código sem erros usando orientação objetos.
 Uso de interface gráfica (JFrame).
+
+![18-04-00](https://user-images.githubusercontent.com/89752080/162639806-ea821c6d-54d6-41fe-af55-0937236e3320.gif)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
